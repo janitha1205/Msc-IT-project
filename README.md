@@ -11,3 +11,8 @@ so that by knowing a little bit of opertaion of computer able to proceeds with t
 1. backends: Node JS
 2. frontend: Figma + react JS
 3. Database: Mongo DB + MySQL
+
+# Documentation
+
+Msc IT Thesis: 
+[Final_msc_it_report.pdf](https://github.com/user-attachments/files/20360947/Final_msc_it_report.pdf)
